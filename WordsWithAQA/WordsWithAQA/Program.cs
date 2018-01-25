@@ -10,6 +10,8 @@ namespace WordsWithAQA
     {
         static void Main(string[] args)
         {
+            //
+            //
         }
     }
 }
